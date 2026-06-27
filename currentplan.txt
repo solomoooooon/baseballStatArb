@@ -1,0 +1,9 @@
+Roadmap for learning what baseball stats i need to learn to have an understanding of sabermetrics
+1. library.fangraphs.com/getting-started
+2. researchgate.net/publication/311862823
+3. fisher.wharton.upenn.edu/wp-content/uploads/2020/09/Thesis_Andrew-Cui.pdf
+4. tandfonline.com/doi/full/10.1080/08839514.2018.1442991
+5. sloansportsconference.com/research-paper-competition
+6. book: The Book: Playing the Percentages in Baseball
+
+    
